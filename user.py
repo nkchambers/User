@@ -32,7 +32,7 @@ class User:
 
 # Insantiate Users
 Nick = User ('Nick', 'Chambers', 30, account_balance = 0)
-Russell = User ('Russell', 'Wilson', 33, account_balance = 0)
+Russell = User ('John', 'Doe', 22, account_balance = 0)
 Bruce = User ('Bruce', 'Wayne', 45, account_balance = 500000)
 
 
